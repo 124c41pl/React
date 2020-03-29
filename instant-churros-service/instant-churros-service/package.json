@@ -1,0 +1,21 @@
+{
+  "name": "instant-churros-service",
+  "version": "1.0.0",
+  "description": "Services Backend to MySQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/124c41Plus/React/tree/master/instant-churros-service/instant-churros-service"
+  },
+  "keywords": [
+    "Services"
+  ],
+  "author": "124c41",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
